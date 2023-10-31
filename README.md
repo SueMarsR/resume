@@ -1,4 +1,4 @@
-<img width="377" alt="image" src="https://github.com/SueMarsR/resume/assets/66981273/37ca8800-4c6e-42cb-95e5-6444a3680d3f"><img width="103" alt="image" src="https://github.com/SueMarsR/resume/assets/66981273/1b0ca4eb-258f-465e-b2e0-d07a3e04090c"># Tianyi Ma
+# Tianyi Ma
 Personal CV
 
 ## Research Interest
